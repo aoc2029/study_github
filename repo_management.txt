@@ -1,0 +1,13 @@
+#created by aoc2029
+
+**!!_must create a new repository on the github website_!!**
+
+Adding files:
+
+git init //makes sure that the directory is staged
+git status //lists files to commit and delete
+git add // adds a file to be committed
+git remote add origin https://github.com/USERNAME/your_repo.git // command to add the origin of the desired repository
+git push -u origin master // pushes all files after prompting for login
+
+ROOM FOR EDIT
